@@ -7,39 +7,38 @@ npm install gulp-html2jade --save-dev
 
 ###Options:
 #### options.double
-Type: `Boolean`
-Default value: `false`
+Type: `Boolean`  
+Default value: `false`  
 Desc: use double quotes for attributes
 
 #### options.nspaces
-Type: `Number`
-Default value: `2`
+Type: `Number`  
+Default value: `2`  
 Desc: the number of spaces to indent generated files with. Default is 2 spaces
 
 #### options.tabs
-Type: `Bolean`
-Default value: `false`
+Type: `Bolean`  
+Default value: `false`  
 Desc: use tabs instead of spaces
 
 #### options.bodyless
-Type: `Bolean`
-Default value: `false`
+Type: `Bolean`  
+Default value: `false`  
 Desc: do not output enveloping html and body tags
 
 #### options.numeric
-Type: `Bolean`
-Default value: `false`
+Type: `Bolean`  
+Default value: `false`  
 Desc: use numeric character entities
 
 #### options.donotencode
-Type: `Boolean`
-Default value: `false`
+Type: `Boolean`  
+Default value: `false`  
 Desc: do not html encode charact
 
-
 #### options.scalate
-Type: `Boolean`
-Default value: `false`
+Type: `Boolean`  
+Default value: `false`  
 Desc: generate Scalate variant of jade syntax
 
 

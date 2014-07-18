@@ -1,5 +1,5 @@
 {
-  "name": "gulp-html2jade",
+  "name": "gulp-htmlToJade",
   "version": "0.1.0",
   "description": "Convert html pages to jade templates",
   "homepage": "https://github.com/serheyShmyg/gulp-html2jade",

@@ -3,3 +3,4 @@ test
 .DS_Store
 LICENSE-MIT
 Gruntfile.js
+npm-debug.log

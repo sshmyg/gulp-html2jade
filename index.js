@@ -25,7 +25,7 @@ module.exports = function(options) {
 		html2jade.convertHtml(content, options, function (err, jade) {
 			file.contents = new Buffer(jade);
 			this.push(file);
-			callback(null, file);
+			callback();
 		}.bind(this));
 	});
 

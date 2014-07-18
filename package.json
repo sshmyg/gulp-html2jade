@@ -1,0 +1,28 @@
+{
+  "name": "gulp-html2jade",
+  "version": "0.1.0",
+  "description": "Convert html pages to jade templates",
+  "homepage": "https://github.com/serheyShmyg/gulp-html2jade",
+  "author": {
+    "name": "Serhey Shmyg",
+    "email": "serhey.shmyg.all@gmail.com"
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/serheyShmyg/gulp-html2jade.git"
+  },
+  "bugs": {
+    "url": "https://github.com/serheyShmyg/gulp-html2jade/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start" : "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "gulp-util": "^2.2.20",
+    "html2jade": "^0.7.7",
+    "through2": "^0.5.1"
+  }
+}
